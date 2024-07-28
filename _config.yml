@@ -1,13 +1,13 @@
 # Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
-
+# 'Never put off till tomorrow what you can do today'
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: Luke's blog
+subtitle: 'avadar kedavra'
+description: 'Codes Never Lie'
 keywords:
-author: John Doe
+author: Luke Hu
 language: en
 timezone: ''
 
@@ -96,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: butterfly
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
